@@ -1,0 +1,3 @@
+rootProject.name = 'tool_dash_4162'
+
+include ':app'
